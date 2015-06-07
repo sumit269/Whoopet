@@ -1,0 +1,17 @@
+*.bin
+.idea/.name
+.idea/compiler.xml
+gradlew
+gradle/wrapper/gradle-wrapper.jar
+*/build/*
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+/.idea/*
+/.DS_Store
+/*.gradle/*
+*.iml
+gradlew.bat
+
+gradle/wrapper/gradle-wrapper.properties
+/

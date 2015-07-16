@@ -1,0 +1,18 @@
+Libraries to be used:
+
+Timber
+Butterknife
+gson
+OrmLite
+Retrofit - to make service calls
+RxJava - allows asynchronous and event-based programming in declarative manner
+
+http://tsuharesu.com/handling-cookies-with-okhttp/ - Way to handle cookies (for eg. in signin)
+Android universal Image Loader - For image loading and caching or Picasso
+https://github.com/facebook/stetho
+http://facebook.github.io/rebound/ - Animations
+
+General notes:
+Use recyclerView
+use Cardviews
+Use FAB

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/nav_menu_background_color_1"
+    android:padding="@dimen/list_top_padding"
+    android:paddingLeft="@dimen/list_item_side_padding"
+    android:paddingRight="@dimen/list_item_side_padding">
+
+    <ImageView
+        android:id="@+id/nav_item_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/abc_btn_check_material" />
+
+    <TextView
+        android:id="@+id/nav_item_text"
+        style="@style/NavigationMenuTextViewStyle"
+        android:text="@string/sample_text" />
+
+    <ImageView
+        android:id="@+id/nav_item_notification"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|end"
+        android:src="@drawable/abc_btn_check_material" />
+</FrameLayout>

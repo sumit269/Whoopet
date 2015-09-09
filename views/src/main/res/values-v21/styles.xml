@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="WButtonStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">@dimen/button_height</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/wbutton_background</item>
+        <item name="android:minWidth">@dimen/button_min_width</item>
+        <item name="android:paddingLeft">@dimen/button_internal_padding</item>
+        <item name="android:paddingRight">@dimen/button_internal_padding</item>
+        <item name="android:layout_marginLeft">8dp</item>
+        <item name="android:elevation">0dp</item>
+    </style>
+
+    <style name="PrimaryButtonStyle.RaisedButtonStyle">
+        <item name="android:elevation">@dimen/button_elevation_height</item>
+    </style>
+
+    <style name="SecondaryButtonStyle.RaisedButtonStyle">
+        <item name="android:elevation">@dimen/button_elevation_height</item>
+    </style>
+</resources>

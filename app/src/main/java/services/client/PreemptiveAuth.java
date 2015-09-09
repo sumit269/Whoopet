@@ -22,26 +22,26 @@ public class PreemptiveAuth implements HttpRequestInterceptor {
             throws HttpException, IOException {
 
         BasicScheme basicAuth = new BasicScheme();
-        context.setAttribute(ServiceConstants.PREEMPTIVE_AUTH, basicAuth);
+//        context.setAttribute(ServiceConstants.PREEMPTIVE_AUTH, basicAuth);
 
         AuthState authState = (AuthState) context.getAttribute(ClientContext.TARGET_AUTH_STATE);
 
         if (authState.getAuthScheme() == null) {
-            AuthScheme authScheme = (AuthScheme) context
-                    .getAttribute(ServiceConstants.PREEMPTIVE_AUTH);
-            CredentialsProvider credentialsProvider = (CredentialsProvider) context
-                    .getAttribute(ClientContext.CREDS_PROVIDER);
-            HttpHost targetHost = (HttpHost) context
-                    .getAttribute(ExecutionContext.HTTP_TARGET_HOST);
-            if (authScheme != null) {
-                Credentials credentials = credentialsProvider.getCredentials(new AuthScope(targetHost
-                        .getHostName(), targetHost.getPort()));
-                if (credentials == null) {
-                    throw new HttpException("No credentials for preemptive authentication");
-                }
-                authState.setAuthScheme(authScheme);
-                authState.setCredentials(credentials);
-            }
+//            AuthScheme authScheme = (AuthScheme) context
+//                    .getAttribute(ServiceConstants.PREEMPTIVE_AUTH);
+//            CredentialsProvider credentialsProvider = (CredentialsProvider) context
+//                    .getAttribute(ClientContext.CREDS_PROVIDER);
+//            HttpHost targetHost = (HttpHost) context
+//                    .getAttribute(ExecutionContext.HTTP_TARGET_HOST);
+//            if (authScheme != null) {
+//                Credentials credentials = credentialsProvider.getCredentials(new AuthScope(targetHost
+//                        .getHostName(), targetHost.getPort()));
+//                if (credentials == null) {
+//                    throw new HttpException("No credentials for preemptive authentication");
+//                }
+//                authState.setAuthScheme(authScheme);
+//                authState.setCredentials(credentials);
+//            }
         }
 
     }

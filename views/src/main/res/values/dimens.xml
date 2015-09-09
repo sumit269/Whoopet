@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="container_padding">16dp</dimen>
+
+
+    <dimen name="section_margin">8dp</dimen>
+    <dimen name="large_margin">80dp</dimen>
+
+    <dimen name="content_side_padding">16dp</dimen>
+    <dimen name="content_top_padding">16dp</dimen>
+    <dimen name="content_bottom_padding">16dp</dimen>
+    <dimen name="divider_size">1dp</dimen>
+
+    <dimen name="primary_title_text_size">24sp</dimen>
+    <dimen name="primary_subtitle_text_size">14sp</dimen>
+    <dimen name="secondary_text_size">14sp</dimen>
+    <dimen name="button_min_width">88dp</dimen>
+
+    <!--e.g. for pettale item-->
+    <dimen name="card_title_container_height">72dp</dimen>
+    <dimen name="card_container_top_padding">16dp</dimen>
+    <dimen name="card_container_bottom_padding">16dp</dimen>
+
+    <!--e.g. for like/comment section-->
+    <dimen name="inner_container_padding">8dp</dimen>
+    <dimen name="inner_container_item_margin_left">4dp</dimen>
+
+    <!--e.g. for timeline item-->
+    <dimen name="list_top_padding">8dp</dimen>
+    <dimen name="list_item_vertical_padding">20dp</dimen>
+    <dimen name="list_item_side_padding">16dp</dimen>
+    <dimen name="list_item_side_padding_from_parent">72dp</dimen>
+    <dimen name="list_item_primary_text_size">16sp</dimen>
+
+    <!--e.g. Dialog related dimens-->
+    <dimen name="dialog_internal_padding">24dp</dimen>
+    <dimen name="dialog_button_height">36dp</dimen>
+    <dimen name="dialog_button_padding">8dp</dimen>
+    <dimen name="dialog_button_area_height">52dp</dimen>
+
+    <!--Button related dimens-->
+    <dimen name="button_height">36dp</dimen>
+    <dimen name="button_external_side_margin">8dp</dimen>
+    <dimen name="button_external_vertical_padding">6dp</dimen>
+    <dimen name="button_internal_padding">8dp</dimen>
+    <dimen name="button_elevation_height">2dp</dimen>
+
+    <!--navigation menu related-->
+    <dimen name="navigation_item_side_padding">16dp</dimen>
+    <dimen name="navigation_item_text_padding_start">72dp</dimen>
+    <dimen name="navigation_item_text_size">14sp</dimen>
+
+</resources>

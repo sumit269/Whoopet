@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="background_overlay">#66000000</color>
+    <color name="status_bar_color">#038BA3</color>
+
+    <color name="hint_text_color">#778899</color>
+    <color name="label_color">#000000</color>
+    <color name="value_color">#000034</color>
+
+    <color name="primary_text_color">#08BDD6</color>
+    <color name="primary_text_color_2">#FA4685</color>
+    <color name="secondary_text_color">#FFFFFF</color>
+
+    <color name="highlighted_text_color">#FFFFFF</color>
+
+    <color name="primary_button_color">#FFFFFF</color>
+    <color name="primary_button_text_color">#FFFFFF</color>
+
+    <color name="intermediate_button_color">#FFFFFF</color>
+    <color name="intermediate_button_text_color">#FFFFFF</color>
+
+    <color name="secondary_button_color">#FFFFFF</color>
+    <color name="secondary_button_text_color">#FFFFFF</color>
+
+    <color name="circular_imageview_border_color">#FFFFFF</color>
+    <color name="default_profile_image_background_color">#FFFFFF</color>
+
+    <color name="nav_menu_background_color_1">#FFFFFF</color>
+    <color name="nav_menu_background_color_2">#FFFFFF</color>
+
+    <color name="button_disabled_text_color">#40FFFFFF</color>
+    <color name="button_disabled_background_color">#0CFFFFFF</color>
+</resources>

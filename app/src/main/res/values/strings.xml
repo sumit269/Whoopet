@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">BreedUp</string>
-    <string name="dummy_button">Dummy Button</string>
-    <string name="dummy_content">DUMMY\nCONTENT</string>
-
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="username">Username</string>
     <string name="password">Password</string>
 
@@ -24,5 +19,7 @@
     <string name="hint_postcode">Postcode</string>
     <string name="label_relationshipStatus">Relationship status</string>
     <string name="label_languagesSpoken">Languages spoken</string>
+    <string name="remember_me">Remember me on this device</string>
+    <string name="forgot_password">Forgot password ?</string>
 
 </resources>

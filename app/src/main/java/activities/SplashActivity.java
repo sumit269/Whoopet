@@ -1,5 +1,6 @@
 package activities;
 
+import android.app.Fragment;
 import android.content.Intent;
 import android.os.Bundle;
 
@@ -26,7 +27,7 @@ public class SplashActivity extends BaseFragmentActivity {
                         wait(DURATION);
                     } catch (InterruptedException e) {
                     } finally {
-                        Intent intent = new Intent(getBaseContext(), LoginActivity.class);
+                        Intent intent = new Intent(getBaseContext(), StartActivity.class);
                         startActivity(intent);
                         finish();
                     }
@@ -38,8 +39,8 @@ public class SplashActivity extends BaseFragmentActivity {
     }
 
     @Override
-    protected int getFragmentLayoutId() {
-        return 0;
+    protected Fragment getFragment() {
+        return null;
     }
 
 }

@@ -28,6 +28,7 @@ public abstract class BaseService {
 
     protected ServiceInterface createServices() {
 //        return RestAdapter.
+        return null;
     }
 
     private Map<String, String> getHeaders() {

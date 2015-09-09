@@ -1,7 +1,5 @@
 package models;
 
-import io.realm.RealmObject;
-
 /**
  * Created by SumitBhatia on 7/06/15.
  */

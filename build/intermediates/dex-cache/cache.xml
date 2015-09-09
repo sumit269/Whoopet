@@ -2,263 +2,123 @@
 <items version="2" >
 
     <item
-        jar="/Users/SumitBhatia/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jar="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
         jumboMode="false"
-        revision="19.1.0"
-        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
-        <dex dex="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/pre-dexed/debug/jackson-core-2.1.3-ee4e2f9e002b1cb38285b03a3a1b1ace8007b163.jar" />
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/pre-dexed/pro/debug/classes-14c71a91f0a97ac351229313608b8fc3175e4ff8.jar" />
     </item>
     <item
-        jar="/Users/SumitBhatia/Android/Setup/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jar="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/exploded-aar/WhooPet/views/unspecified/jars/classes.jar"
         jumboMode="false"
-        revision="19.1.0"
-        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-4ce02f66fcc91b3f722d6c6f4ae098281dbaa0d9.jar" />
-    </item>
-    <item
-        jar="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
-        <dex dex="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/pre-dexed/debug/classes-fc928a5f782e2c5fc44071733a1277278bc6f4b5.jar" />
-    </item>
-    <item
-        jar="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
-        <dex dex="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-d8dd1f626176389388b03c1c84f6c3e04e6153a1.jar" />
-    </item>
-    <item
-        jar="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-222fbfa515ae579cc090a8ab79fb8a2eb1b48580.jar" />
-    </item>
-    <item
-        jar="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
-        <dex dex="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/pre-dexed/debug/classes-878121f1461a4147056b9b9ceecd5f22239ef219.jar" />
-    </item>
-    <item
-        jar="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
-        <dex dex="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/pre-dexed/debug/classes-abf93fdb8188e411cd3a13323db59888b358eb77.jar" />
-    </item>
-    <item
-        jar="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="d405025c600055237c171a0bbabaa49d69696573">
-        <dex dex="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/pre-dexed/debug/classes-88dcc0840fd7ee1139ccc288fd1c3fa67b2f3521.jar" />
-    </item>
-    <item
-        jar="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
-        <dex dex="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/pre-dexed/debug/classes-dc7377e914eb6707a6124ff21bf248f3a64e1ba1.jar" />
+        revision="22.0.1"
+        sha1="06c058ce3f60142b98c20e34dc5839fd0a8cf731">
+        <dex dex="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/pre-dexed/pro/debug/classes-60e34177cef61b4e558d7af4fa6ae5de57be349f.jar" />
     </item>
     <item
         jar="/Users/SumitBhatia/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.0.0/3a10b25b6820e19102e118711afe6a66c0bae123/butterknife-6.0.0.jar"
         jumboMode="false"
-        revision="19.1.0"
+        revision="22.0.1"
         sha1="3a10b25b6820e19102e118711afe6a66c0bae123">
-        <dex dex="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/pre-dexed/debug/butterknife-6.0.0-82968f628121980ef2b706b4f6daa7a6819b150f.jar" />
+        <dex dex="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/pre-dexed/pro/debug/butterknife-6.0.0-82968f628121980ef2b706b4f6daa7a6819b150f.jar" />
     </item>
     <item
-        jar="/Users/SumitBhatia/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jar="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
         jumboMode="false"
-        revision="19.1.0"
-        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
-        <dex dex="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/pre-dexed/debug/jsr305-1.3.9-0e40222b9e28263d8fa5c12f52b969fa32125173.jar" />
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/pre-dexed/pro/debug/internal_impl-22.2.1-d2f0a027de346477cd4805fce087141c617b7667.jar" />
     </item>
     <item
-        jar="/Users/SumitBhatia/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.19.0/d473a8962e14a707a3716637e4898bb2dd9643f2/google-oauth-client-1.19.0.jar"
+        jar="/Users/SumitBhatia/Android/Setup/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
         jumboMode="false"
-        revision="19.1.0"
-        sha1="d473a8962e14a707a3716637e4898bb2dd9643f2">
-        <dex dex="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/pre-dexed/debug/google-oauth-client-1.19.0-bf250162cdb02adba91842482a35588b8484471c.jar" />
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/pre-dexed/pro/debug/support-annotations-22.2.1-85cdd98b911c847511d1400d88cd69f1d06f24a4.jar" />
     </item>
     <item
-        jar="/Users/SumitBhatia/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/13.0/381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7/guava-jdk5-13.0.jar"
+        jar="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
         jumboMode="false"
-        revision="19.1.0"
-        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
-        <dex dex="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/pre-dexed/debug/guava-jdk5-13.0-6e589cc49c8c245977dd0315d75d4e50c5798acd.jar" />
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/pre-dexed/pro/debug/classes-c18af49cf4a6e851b27394f52174b77b8bf32023.jar" />
     </item>
     <item
-        jar="/Users/SumitBhatia/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.19.0/cdca49ad0977c040f603478aa2e16b2775c8fec6/google-http-client-1.19.0.jar"
+        jar="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
         jumboMode="false"
-        revision="19.1.0"
-        sha1="cdca49ad0977c040f603478aa2e16b2775c8fec6">
-        <dex dex="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/pre-dexed/debug/google-http-client-1.19.0-73dbc178e7f5a803946e624acd3c7c60f96a949b.jar" />
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/pre-dexed/pro/debug/classes-211544f75fed317a4a050097b6a26a63b05f26a3.jar" />
     </item>
     <item
-        jar="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jar="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
         jumboMode="false"
-        revision="19.1.0"
-        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
-        <dex dex="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/pre-dexed/debug/classes-9dde2bb0c9eb84da603226989dcb00456dac7499.jar" />
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/pre-dexed/pro/debug/classes-f0176470adddd830670957d6fc61516227730ad2.jar" />
     </item>
     <item
-        jar="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/jars/classes.jar"
+        jar="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
         jumboMode="false"
-        revision="19.1.0"
-        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
-        <dex dex="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/pre-dexed/debug/classes-482d932565d71f2df549373045433d37fa842499.jar" />
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/pre-dexed/pro/debug/classes-c87d69b61b28b809c5e98bfa2332cafa2bca4003.jar" />
     </item>
     <item
-        jar="/Users/SumitBhatia/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.19.0/81dbf9795d387d5e80e55346582d5f2fb81a42eb/google-http-client-jackson2-1.19.0.jar"
+        jar="/Users/SumitBhatia/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
         jumboMode="false"
-        revision="19.1.0"
-        sha1="81dbf9795d387d5e80e55346582d5f2fb81a42eb">
-        <dex dex="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/pre-dexed/debug/google-http-client-jackson2-1.19.0-a75fb7525ebc340afea50c68460dbb9683d1bef9.jar" />
+        revision="22.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/pre-dexed/pro/debug/gson-2.3-413731e049d0a7e5331025ca14def8f5e8699082.jar" />
     </item>
     <item
-        jar="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/jars/classes.jar"
+        jar="/Users/SumitBhatia/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.0/a7537446a030da8eb0da4c71424d16c2589f6c4a/glide-3.6.0.jar"
         jumboMode="false"
-        revision="19.1.0"
-        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
-        <dex dex="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/pre-dexed/debug/classes-c5075696c5ecaf2999d23eb202b1ea479ebcce28.jar" />
+        revision="22.0.1"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/pre-dexed/pro/debug/glide-3.6.0-f44a93f071d493eaab9f1dc2459259a99137ad44.jar" />
     </item>
     <item
-        jar="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jar="/Users/SumitBhatia/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
         jumboMode="false"
-        revision="19.1.0"
-        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
-        <dex dex="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/pre-dexed/debug/classes-f07914f7ae2659ebc3ed4eee508b08a7d25a8118.jar" />
+        revision="22.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/pre-dexed/pro/debug/retrofit-1.9.0-a12d3529e10802f97a74f80950cb4367ce1c817e.jar" />
     </item>
     <item
-        jar="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jar="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
         jumboMode="false"
-        revision="19.1.0"
-        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
-        <dex dex="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/pre-dexed/debug/classes-1d203e0e6e80f176525a34ef321fd8128cc13018.jar" />
-    </item>
-    <item
-        jar="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
-        <dex dex="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/pre-dexed/debug/classes-c47341f955ee2cc304e3b725004caf792d19b4ab.jar" />
-    </item>
-    <item
-        jar="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
-        <dex dex="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/pre-dexed/debug/classes-e1d18001be5b344206407e14447249aa5d11feeb.jar" />
-    </item>
-    <item
-        jar="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
-        <dex dex="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/pre-dexed/debug/classes-c6b779823867d9b86310b9301b1f79e07a439eb4.jar" />
-    </item>
-    <item
-        jar="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="19.1.0"
+        revision="22.0.1"
         sha1="a78183f30e769a98ab4820794f597763088d3065">
-        <dex dex="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/pre-dexed/debug/classes-4e30d7427a0757fae656b164fa28396a8827ff00.jar" />
+        <dex dex="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/pre-dexed/pro/debug/classes-e475c1a33b7e5a9f3ec3adbe151a1ec19b4f13e8.jar" />
     </item>
     <item
-        jar="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/jars/classes.jar"
+        jar="/Users/SumitBhatia/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.0-rc.9/ae9b02e6a3c11583980d24ba573fed5d558a6d6/rxjava-1.0.0-rc.9.jar"
         jumboMode="false"
-        revision="19.1.0"
-        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
-        <dex dex="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/pre-dexed/debug/classes-fcf94ca0be52ce94dfdc7177060274cb05eb4f50.jar" />
+        revision="22.0.1"
+        sha1="0ae9b02e6a3c11583980d24ba573fed5d558a6d6">
+        <dex dex="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/pre-dexed/pro/debug/rxjava-1.0.0-rc.9-ab91828be5ef86992d11090f3a7e1a34db6d4c21.jar" />
     </item>
     <item
-        jar="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/jars/classes.jar"
+        jar="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
         jumboMode="false"
-        revision="19.1.0"
-        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
-        <dex dex="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/pre-dexed/debug/classes-56546eb7a49cf29a0e3bdc0eac5ec3625da8fdc7.jar" />
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/pre-dexed/pro/debug/classes-131e796196bd8c980d237d5338119f4778e93615.jar" />
     </item>
     <item
-        jar="/Users/SumitBhatia/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.19.0/6a21277d9bebe267b7ddee028b241eebc756c040/google-api-client-1.19.0.jar"
+        jar="/Users/SumitBhatia/.gradle/caches/modules-2/files-2.1/com.jakewharton.timber/timber/3.1.0/3ab2aedaeb4bfa698d0021cb843b2040fbf57fc/timber-3.1.0.jar"
         jumboMode="false"
-        revision="19.1.0"
-        sha1="6a21277d9bebe267b7ddee028b241eebc756c040">
-        <dex dex="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/pre-dexed/debug/google-api-client-1.19.0-084ee72a926357ae5cc15deab743a47a3705bf10.jar" />
+        revision="22.0.1"
+        sha1="03ab2aedaeb4bfa698d0021cb843b2040fbf57fc">
+        <dex dex="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/pre-dexed/pro/debug/timber-3.1.0-a0a83ac49a52c6eb2b2b75ef7e3c5013cfb6b85c.jar" />
     </item>
     <item
-        jar="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/jars/classes.jar"
+        jar="/Users/SumitBhatia/.gradle/caches/modules-2/files-2.1/io.reactivex/rxandroid/0.23.0/9c437ce12df38b57fde4e3bb38ef6859f85ff737/rxandroid-0.23.0.jar"
         jumboMode="false"
-        revision="19.1.0"
-        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
-        <dex dex="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/pre-dexed/debug/classes-4c36e396ebba5e11885d204844e51d8ae4f3a908.jar" />
-    </item>
-    <item
-        jar="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
-        <dex dex="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/pre-dexed/debug/classes-fc7f80fc71409128696446dbf955cabb836425a5.jar" />
-    </item>
-    <item
-        jar="/Users/SumitBhatia/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.19.0/ba2aafb867f6af469f936ae76426cf0a280094bd/google-api-client-android-1.19.0.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="ba2aafb867f6af469f936ae76426cf0a280094bd">
-        <dex dex="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/pre-dexed/debug/google-api-client-android-1.19.0-cd847e66abef956f229e4944f0a6f057fd656a17.jar" />
-    </item>
-    <item
-        jar="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/pre-dexed/debug/classes-23d2367334518b67e597c49ac04a9390eb22a02a.jar" />
-    </item>
-    <item
-        jar="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
-        <dex dex="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/pre-dexed/debug/classes-0b849ce5b478ccef6a70d85eb1c1ce7d04326cd9.jar" />
-    </item>
-    <item
-        jar="/Users/SumitBhatia/Development/Breedup/breedupBackend/build/libs/breedupBackend-android-endpoints.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="f0caf8cefcb7a2f7493eac70106874cc1bf8df34">
-        <dex dex="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/pre-dexed/debug/breedupBackend-android-endpoints-9fe3ac707d313e2ddf9c54ff5a7c80668691645f.jar" />
-    </item>
-    <item
-        jar="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
-        <dex dex="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/pre-dexed/debug/classes-b39e584f928dd2dcaaa5c219d5e9884caaea99cb.jar" />
-    </item>
-    <item
-        jar="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
-        <dex dex="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/pre-dexed/debug/classes-73b264a0d560bcf050f26520e0739da193c8b4c3.jar" />
-    </item>
-    <item
-        jar="/Users/SumitBhatia/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.19.0/e3f11020c2c812112803d252d1392872d3f619c8/google-http-client-android-1.19.0.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="e3f11020c2c812112803d252d1392872d3f619c8">
-        <dex dex="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/pre-dexed/debug/google-http-client-android-1.19.0-f9dcb2101477300b08be1a08be9a591227672481.jar" />
-    </item>
-    <item
-        jar="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
-        <dex dex="/Users/SumitBhatia/Development/Breedup/app/build/intermediates/pre-dexed/debug/classes-9422dc17d5ab1fd0561d2f57291beed6280b14df.jar" />
+        revision="22.0.1"
+        sha1="9c437ce12df38b57fde4e3bb38ef6859f85ff737">
+        <dex dex="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/pre-dexed/pro/debug/rxandroid-0.23.0-59ba588d4da963cb0977a77017eb5a40a4bca215.jar" />
     </item>
 
 </items>

@@ -10,4 +10,11 @@ public class RegisterFragment extends BaseFragment {
     protected int setContentLayout() {
         return R.layout.fragment_register;
     }
+
+    @Override
+    protected String getPageTitle() {
+        return null;
+    }
+
+
 }

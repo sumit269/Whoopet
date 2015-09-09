@@ -1,31 +1,48 @@
 package activities.base;
 
 import android.app.AlertDialog;
+import android.app.Fragment;
 import android.app.ProgressDialog;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.inputmethod.InputMethodManager;
-import android.widget.FrameLayout;
 
 import com.laser.breedup.R;
+
+import utils.BreedUpApplication;
 
 /**
  * Created by SumitBhatia on 7/06/15.
  */
-public abstract class BaseFragmentActivity extends AppCompatActivity{
-    FrameLayout container;
+public abstract class BaseFragmentActivity extends AppCompatActivity {
 
+    protected BreedUpApplication mApp;
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_base);
-        container = (FrameLayout) findViewById(R.id.container);
-
+        Fragment fragment = getFragment();
+        if (fragment != null) {
+            getFragmentManager()
+                    .beginTransaction()
+                    .add(R.id.container, fragment, "BaseFragment")
+                    .commit();
+        }
     }
 
-    protected abstract int getFragmentLayoutId();
+    protected abstract Fragment getFragment();
+
+    public void replaceFragment(Fragment fragment) {
+        if (fragment != null) {
+            getFragmentManager()
+                    .beginTransaction()
+                    .replace(R.id.container, fragment, "BaseFragment")
+                    .commit();
+        }
+    }
 
     private ProgressDialog progressDialog;
 
@@ -61,7 +78,12 @@ public abstract class BaseFragmentActivity extends AppCompatActivity{
         if (((BaseFragmentActivity) context).getSupportActionBar() != null) {
             ((BaseFragmentActivity) context).getSupportActionBar().setTitle(title);
         }
+    }
 
+    public void setActionBarTitle(Context context, int title) {
+        if (((BaseFragmentActivity) context).getSupportActionBar() != null) {
+            ((BaseFragmentActivity) context).getSupportActionBar().setTitle(title);
+        }
     }
 
     public void hideKeyboard() {

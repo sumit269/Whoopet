@@ -16,19 +16,19 @@ public class RestServicesCacheStore {
         responseCacheDao = new ResponseCacheDao(encodeDecodeAES);
     }
 
-    public void put(CacheData cacheData) {
-        responseCacheDao.putCacheData(context, cacheData);
-    }
-
-    public CacheData get(String key) {
-        return responseCacheDao.getCacheData(context, key);
-    }
-
-    public void removeByKey(String cacheKey) {
-        responseCacheDao.removeCacheByKey(context, cacheKey);
-    }
-
-    public static void removeAllCacheByUser(Context context, String userName) {
-        ResponseCacheDao.getInstance().removeCacheWithKeyPrefix(context, userName);
-    }
+//    public void put(CacheData cacheData) {
+//        responseCacheDao.putCacheData(context, cacheData);
+//    }
+//
+//    public CacheData get(String key) {
+//        return responseCacheDao.getCacheData(context, key);
+//    }
+//
+//    public void removeByKey(String cacheKey) {
+//        responseCacheDao.removeCacheByKey(context, cacheKey);
+//    }
+//
+//    public static void removeAllCacheByUser(Context context, String userName) {
+//        ResponseCacheDao.getInstance().removeCacheWithKeyPrefix(context, userName);
+//    }
 }

@@ -9,7 +9,6 @@ gradle/wrapper/gradle-wrapper.jar
 /.idea/libraries
 /.idea/*
 /.DS_Store
-/*.gradle/*
 *.iml
 gradlew.bat
 

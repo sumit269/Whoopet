@@ -5,4 +5,5 @@ package com.laser.domain.views;
  */
 public interface AboutView extends BaseView {
 
+    
 }

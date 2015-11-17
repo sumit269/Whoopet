@@ -26,3 +26,5 @@ public class AboutPresenter implements Presenter<AboutView> {
         showAboutUseCase.unsubscribe();
     }
 }
+
+

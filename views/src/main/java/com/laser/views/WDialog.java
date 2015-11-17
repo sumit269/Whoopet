@@ -1,9 +1,7 @@
 package com.laser.views;
 
+import android.app.AlertDialog;
 import android.content.Context;
-import android.support.v7.app.AlertDialog;
-
-import com.laser.whoopet.views.R;
 
 /**
  * Created by SumitBhatia on 27/07/15.

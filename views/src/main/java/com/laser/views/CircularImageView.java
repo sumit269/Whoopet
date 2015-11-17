@@ -2,7 +2,7 @@ package com.laser.views;
 
 /**
  * Created by SumitBhatia on 26/07/15.
- *
+ * <p/>
  * CircularImageView by Lopez Mikhael is licensed under a Creative Commons Attribution 4.0
  * International License. Based on a work at https://github.com/lopspower/CircularImageView.
  */
@@ -19,8 +19,6 @@ import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.Drawable;
 import android.util.AttributeSet;
 import android.widget.ImageView;
-
-import com.laser.whoopet.views.R;
 
 public class CircularImageView extends ImageView {
     private int borderWidth;

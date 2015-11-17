@@ -9,8 +9,6 @@ import android.widget.EditText;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
 
-import com.laser.whoopet.views.R;
-
 /**
  * Created by SumitBhatia on 26/07/15.
  */

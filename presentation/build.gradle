@@ -1,0 +1,91 @@
+apply plugin: 'com.android.application'
+apply plugin: 'android-apt'
+apply plugin: 'com.google.gms.google-services'
+
+android {
+    def globalConfiguration = rootProject.extensions.getByName("ext")
+
+    compileSdkVersion globalConfiguration.getAt("androidCompileSdkVersion")
+    buildToolsVersion globalConfiguration.getAt("androidBuildToolsVersion")
+
+    defaultConfig {
+        minSdkVersion globalConfiguration.getAt("androidMinSdkVersion")
+        targetSdkVersion globalConfiguration.getAt("androidTargetSdkVersion")
+
+        applicationId globalConfiguration.getAt("androidApplicationId")
+        versionCode globalConfiguration.getAt("androidVersionCode")
+        versionName globalConfiguration.getAt("androidVersionName")
+        testApplicationId globalConfiguration.getAt("testApplicationId")
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_7
+        targetCompatibility JavaVersion.VERSION_1_7
+    }
+
+    productFlavors {
+        pro {
+            applicationId = "com.laser.whoopet.pro"
+        }
+        free {
+            applicationId = "com.laser.whoopet.free"
+        }
+    }
+
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            versionNameSuffix ' - RELEASE'
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+
+        debug {
+            versionNameSuffix ' - DEBUG'
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+
+        }
+    }
+}
+
+
+apt {
+    arguments {
+        androidManifestFile variant.outputs[0].processResources.manifestFile
+        resourcePackageName "com.laser.whoopet"
+    }
+}
+
+dependencies {
+
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+
+    compile project(':data')
+    compile project(':domain')
+    compile project(':views')
+
+    def appDependenciesPath = rootProject.ext.appDependencies
+    compile appDependenciesPath.appcompat_v7
+    compile appDependenciesPath.appcompat_v4
+    compile appDependenciesPath.butterknife
+    compile appDependenciesPath.gson
+    compile appDependenciesPath.recyclerView
+    compile appDependenciesPath.cardView
+    compile appDependenciesPath.design
+    compile appDependenciesPath.timber
+    compile appDependenciesPath.glide
+    compile appDependenciesPath.googleAnalytics
+    compile appDependenciesPath.smartAdapter
+    compile appDependenciesPath.dagger
+    apt appDependenciesPath.daggerCompiler
+    provided appDependenciesPath.annotation
+
+    compile appDependenciesPath.androidannotations
+    apt appDependenciesPath.androidannotationsCompiler
+
+    compile appDependenciesPath.rxJava
+    compile appDependenciesPath.rxAndroid
+
+//    compile project(path: ':breedupBackend', configuration: 'android-endpoints')
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Whoopet</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="hint_firstname">Enter first name</string>
+    <string name="hint_lastname">Enter last name</string>
+    <string name="hint_username">Username</string>
+    <string name="label_dateofbirth">Date of birth (dd/mm/yyyy)</string>
+    <string name="label_sex">Sex</string>
+    <string name="hint_sex">Sex</string>
+    <string name="label_address">Address</string>
+    <string name="hint_streetline1">Street address 1</string>
+    <string name="hint_streetline2">Street address 2</string>
+    <string name="hint_state">State</string>
+    <string name="hint_postcode">Postcode</string>
+    <string name="label_relationshipStatus">Relationship status</string>
+    <string name="label_languagesSpoken">Languages spoken</string>
+    <string name="remember_me">Remember me on this device</string>
+    <string name="forgot_password">Forgot password ?</string>
+
+</resources>

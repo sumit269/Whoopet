@@ -2,123 +2,193 @@
 <items version="2" >
 
     <item
-        jar="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jar="/Users/sumitbhatia/Personal data/Development/Whoopet/presentation/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
-        <dex dex="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/pre-dexed/pro/debug/classes-14c71a91f0a97ac351229313608b8fc3175e4ff8.jar" />
+        revision="23.0.2"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="/Users/sumitbhatia/Personal data/Development/Whoopet/presentation/build/intermediates/pre-dexed/free/debug/classes-a51d9329bb1be1128227c3996c45e161b25725f6.jar" />
     </item>
     <item
-        jar="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/exploded-aar/WhooPet/views/unspecified/jars/classes.jar"
+        jar="/Users/sumitbhatia/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/adapter-rxjava/2.0.0-beta1/27db6ccd014c866500af30d92fbfad0e3cc99ee8/adapter-rxjava-2.0.0-beta1.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="06c058ce3f60142b98c20e34dc5839fd0a8cf731">
-        <dex dex="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/pre-dexed/pro/debug/classes-60e34177cef61b4e558d7af4fa6ae5de57be349f.jar" />
+        revision="23.0.2"
+        sha1="27db6ccd014c866500af30d92fbfad0e3cc99ee8">
+        <dex dex="/Users/sumitbhatia/Personal data/Development/Whoopet/presentation/build/intermediates/pre-dexed/free/debug/adapter-rxjava-2.0.0-beta1-c9f9d6c7dc8be85bde694d39b95cf9fb87909d93.jar" />
     </item>
     <item
-        jar="/Users/SumitBhatia/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.0.0/3a10b25b6820e19102e118711afe6a66c0bae123/butterknife-6.0.0.jar"
+        jar="/Users/sumitbhatia/.gradle/caches/modules-2/files-2.1/org.androidannotations/androidannotations-api/3.3.2/7d6149d856b880bbd676047aacb8446a758fbbdb/androidannotations-api-3.3.2.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="3a10b25b6820e19102e118711afe6a66c0bae123">
-        <dex dex="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/pre-dexed/pro/debug/butterknife-6.0.0-82968f628121980ef2b706b4f6daa7a6819b150f.jar" />
+        revision="23.0.2"
+        sha1="7d6149d856b880bbd676047aacb8446a758fbbdb">
+        <dex dex="/Users/sumitbhatia/Personal data/Development/Whoopet/presentation/build/intermediates/pre-dexed/free/debug/androidannotations-api-3.3.2-c308a041ecc8445f84d37c455da8b916e04de6cb.jar" />
     </item>
     <item
-        jar="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jar="/Users/sumitbhatia/Personal data/Development/Whoopet/presentation/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
-        <dex dex="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/pre-dexed/pro/debug/internal_impl-22.2.1-d2f0a027de346477cd4805fce087141c617b7667.jar" />
+        revision="23.0.2"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/Users/sumitbhatia/Personal data/Development/Whoopet/presentation/build/intermediates/pre-dexed/free/debug/classes-fdb4761baee4a1f8796b9106515b40b826fd7335.jar" />
     </item>
     <item
-        jar="/Users/SumitBhatia/Android/Setup/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jar="/Users/sumitbhatia/.gradle/caches/modules-2/files-2.1/com.jakewharton.timber/timber/3.1.0/3ab2aedaeb4bfa698d0021cb843b2040fbf57fc/timber-3.1.0.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
-        <dex dex="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/pre-dexed/pro/debug/support-annotations-22.2.1-85cdd98b911c847511d1400d88cd69f1d06f24a4.jar" />
-    </item>
-    <item
-        jar="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
-        <dex dex="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/pre-dexed/pro/debug/classes-c18af49cf4a6e851b27394f52174b77b8bf32023.jar" />
-    </item>
-    <item
-        jar="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
-        <dex dex="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/pre-dexed/pro/debug/classes-211544f75fed317a4a050097b6a26a63b05f26a3.jar" />
-    </item>
-    <item
-        jar="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
-        <dex dex="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/pre-dexed/pro/debug/classes-f0176470adddd830670957d6fc61516227730ad2.jar" />
-    </item>
-    <item
-        jar="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="f8efd0096475e0daf054267b61544e10dc776503">
-        <dex dex="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/pre-dexed/pro/debug/classes-c87d69b61b28b809c5e98bfa2332cafa2bca4003.jar" />
-    </item>
-    <item
-        jar="/Users/SumitBhatia/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
-        <dex dex="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/pre-dexed/pro/debug/gson-2.3-413731e049d0a7e5331025ca14def8f5e8699082.jar" />
-    </item>
-    <item
-        jar="/Users/SumitBhatia/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.0/a7537446a030da8eb0da4c71424d16c2589f6c4a/glide-3.6.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
-        <dex dex="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/pre-dexed/pro/debug/glide-3.6.0-f44a93f071d493eaab9f1dc2459259a99137ad44.jar" />
-    </item>
-    <item
-        jar="/Users/SumitBhatia/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a681c044244d9fc375198588297a39ba78028423">
-        <dex dex="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/pre-dexed/pro/debug/retrofit-1.9.0-a12d3529e10802f97a74f80950cb4367ce1c817e.jar" />
-    </item>
-    <item
-        jar="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a78183f30e769a98ab4820794f597763088d3065">
-        <dex dex="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/pre-dexed/pro/debug/classes-e475c1a33b7e5a9f3ec3adbe151a1ec19b4f13e8.jar" />
-    </item>
-    <item
-        jar="/Users/SumitBhatia/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.0-rc.9/ae9b02e6a3c11583980d24ba573fed5d558a6d6/rxjava-1.0.0-rc.9.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="0ae9b02e6a3c11583980d24ba573fed5d558a6d6">
-        <dex dex="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/pre-dexed/pro/debug/rxjava-1.0.0-rc.9-ab91828be5ef86992d11090f3a7e1a34db6d4c21.jar" />
-    </item>
-    <item
-        jar="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
-        <dex dex="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/pre-dexed/pro/debug/classes-131e796196bd8c980d237d5338119f4778e93615.jar" />
-    </item>
-    <item
-        jar="/Users/SumitBhatia/.gradle/caches/modules-2/files-2.1/com.jakewharton.timber/timber/3.1.0/3ab2aedaeb4bfa698d0021cb843b2040fbf57fc/timber-3.1.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
+        revision="23.0.2"
         sha1="03ab2aedaeb4bfa698d0021cb843b2040fbf57fc">
-        <dex dex="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/pre-dexed/pro/debug/timber-3.1.0-a0a83ac49a52c6eb2b2b75ef7e3c5013cfb6b85c.jar" />
+        <dex dex="/Users/sumitbhatia/Personal data/Development/Whoopet/presentation/build/intermediates/pre-dexed/free/debug/timber-3.1.0-d6ed99449884f6f6af536992848b9c6a047792f6.jar" />
     </item>
     <item
-        jar="/Users/SumitBhatia/.gradle/caches/modules-2/files-2.1/io.reactivex/rxandroid/0.23.0/9c437ce12df38b57fde4e3bb38ef6859f85ff737/rxandroid-0.23.0.jar"
+        jar="/Users/sumitbhatia/Personal data/Development/Whoopet/presentation/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="9c437ce12df38b57fde4e3bb38ef6859f85ff737">
-        <dex dex="/Users/SumitBhatia/Development/WhooPet/app/build/intermediates/pre-dexed/pro/debug/rxandroid-0.23.0-59ba588d4da963cb0977a77017eb5a40a4bca215.jar" />
+        revision="23.0.2"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/Users/sumitbhatia/Personal data/Development/Whoopet/presentation/build/intermediates/pre-dexed/free/debug/classes-b3fecd4f5e20886ca9b00921f17cd34a7e8c091f.jar" />
+    </item>
+    <item
+        jar="/Users/sumitbhatia/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.0/a7537446a030da8eb0da4c71424d16c2589f6c4a/glide-3.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="/Users/sumitbhatia/Personal data/Development/Whoopet/presentation/build/intermediates/pre-dexed/free/debug/glide-3.6.0-e951583dc342e5e8e4b531f1600022ad9e513730.jar" />
+    </item>
+    <item
+        jar="/Users/sumitbhatia/Personal data/Development/Whoopet/presentation/build/intermediates/exploded-aar/Whoopet/data/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9dc2f1d05b9fcfe5790b3cfe0fa3d16facb979a6">
+        <dex dex="/Users/sumitbhatia/Personal data/Development/Whoopet/presentation/build/intermediates/pre-dexed/free/debug/classes-9cf84cacff18f4bccd5943f1e3bc9a6b1c35e600.jar" />
+    </item>
+    <item
+        jar="/Users/sumitbhatia/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/converter-gson/2.0.0-beta1/3de922cdbf9bb3a6f72f6b6b3327cfb348cf445a/converter-gson-2.0.0-beta1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3de922cdbf9bb3a6f72f6b6b3327cfb348cf445a">
+        <dex dex="/Users/sumitbhatia/Personal data/Development/Whoopet/presentation/build/intermediates/pre-dexed/free/debug/converter-gson-2.0.0-beta1-d9955a857d5c9e257e822c46c4f52ab42ca70b6c.jar" />
+    </item>
+    <item
+        jar="/Users/sumitbhatia/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/sumitbhatia/Personal data/Development/Whoopet/presentation/build/intermediates/pre-dexed/free/debug/javax.inject-1-b105be44b7d9a3964ff2da94311531444f80e487.jar" />
+    </item>
+    <item
+        jar="/Users/sumitbhatia/Personal data/Development/Whoopet/presentation/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/sumitbhatia/Personal data/Development/Whoopet/presentation/build/intermediates/pre-dexed/free/debug/classes-c1780770d5a47bc1ecc509ea31ebce21b2935ce4.jar" />
+    </item>
+    <item
+        jar="/Users/sumitbhatia/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/sumitbhatia/Personal data/Development/Whoopet/presentation/build/intermediates/pre-dexed/free/debug/okio-1.6.0-2bff588a15bddba85f6f816e4a6619235efe59e9.jar" />
+    </item>
+    <item
+        jar="/Users/sumitbhatia/Personal data/Development/Whoopet/presentation/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/sumitbhatia/Personal data/Development/Whoopet/presentation/build/intermediates/pre-dexed/free/debug/classes-67433c798dd802a2615162bbd44a655586696e50.jar" />
+    </item>
+    <item
+        jar="/Users/sumitbhatia/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.0.1/1261dfca5bae89a866a2855552da26feab7f8fad/dagger-2.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1261dfca5bae89a866a2855552da26feab7f8fad">
+        <dex dex="/Users/sumitbhatia/Personal data/Development/Whoopet/presentation/build/intermediates/pre-dexed/free/debug/dagger-2.0.1-4e98d721ffe8dbfd047f43441ee1428487027cbe.jar" />
+    </item>
+    <item
+        jar="/Users/sumitbhatia/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/sumitbhatia/Personal data/Development/Whoopet/presentation/build/intermediates/pre-dexed/free/debug/gson-2.3.1-050190f74199008a1a23377635ba566364dcae20.jar" />
+    </item>
+    <item
+        jar="/Users/sumitbhatia/Personal data/Development/Whoopet/presentation/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="/Users/sumitbhatia/Personal data/Development/Whoopet/presentation/build/intermediates/pre-dexed/free/debug/classes-1b8d4aa62a97eee19b74e9a388d17a6ecf83ccaf.jar" />
+    </item>
+    <item
+        jar="/Users/sumitbhatia/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/2.0.0-beta1/53b5be42d6cf719ac1431b9aa9a4d5ab78856148/retrofit-2.0.0-beta1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="53b5be42d6cf719ac1431b9aa9a4d5ab78856148">
+        <dex dex="/Users/sumitbhatia/Personal data/Development/Whoopet/presentation/build/intermediates/pre-dexed/free/debug/retrofit-2.0.0-beta1-ff674d2aace79177a2a7b9ea1dcf85b7dded25c4.jar" />
+    </item>
+    <item
+        jar="/Users/sumitbhatia/Personal data/Development/Whoopet/presentation/build/intermediates/exploded-aar/Whoopet/views/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="11b652b77d7572bf7c7da732185cb2b8147668af">
+        <dex dex="/Users/sumitbhatia/Personal data/Development/Whoopet/presentation/build/intermediates/pre-dexed/free/debug/classes-daeb1bf2b9cbe154ae93b3fb18640f36f326cb39.jar" />
+    </item>
+    <item
+        jar="/Users/sumitbhatia/Personal data/Development/Whoopet/presentation/build/intermediates/exploded-aar/io.nlopez.smartadapters/library/1.2.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1cac2c9f6b825ee44c05771a9e589264f2b5438d">
+        <dex dex="/Users/sumitbhatia/Personal data/Development/Whoopet/presentation/build/intermediates/pre-dexed/free/debug/classes-1836941ec6d718b871a052602e2f3413c47edd85.jar" />
+    </item>
+    <item
+        jar="/Users/sumitbhatia/Personal data/Development/Whoopet/presentation/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/sumitbhatia/Personal data/Development/Whoopet/presentation/build/intermediates/pre-dexed/free/debug/internal_impl-23.1.0-cbb861c5832208b87fb50225c887fdd60599d947.jar" />
+    </item>
+    <item
+        jar="/Users/sumitbhatia/Personal data/Development/Whoopet/domain/build/libs/domain.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f4cc2f2c594cd7fce36ed36027860d29e87163bc">
+        <dex dex="/Users/sumitbhatia/Personal data/Development/Whoopet/presentation/build/intermediates/pre-dexed/free/debug/domain-9cd2ea365ca9a82e7e776c4002ac70443ecdd85a.jar" />
+    </item>
+    <item
+        jar="/Users/sumitbhatia/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/sumitbhatia/Personal data/Development/Whoopet/presentation/build/intermediates/pre-dexed/free/debug/okhttp-2.5.0-14751c83adfa0639030ef076bc1cf5095e3b6115.jar" />
+    </item>
+    <item
+        jar="/Users/sumitbhatia/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/sumitbhatia/Personal data/Development/Whoopet/presentation/build/intermediates/pre-dexed/free/debug/butterknife-7.0.1-db08d4c139c1c178352abc42f32e14dc5bc80b30.jar" />
+    </item>
+    <item
+        jar="/Users/sumitbhatia/.gradle/caches/modules-2/files-2.1/io.reactivex/rxandroid/0.24.0/42dab493b8f74b164e082f281480c9d493ff89da/rxandroid-0.24.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="42dab493b8f74b164e082f281480c9d493ff89da">
+        <dex dex="/Users/sumitbhatia/Personal data/Development/Whoopet/presentation/build/intermediates/pre-dexed/free/debug/rxandroid-0.24.0-63cef1cd2d72a0d28b604c41f0e00dc0fc8257fe.jar" />
+    </item>
+    <item
+        jar="/Users/sumitbhatia/Development/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/sumitbhatia/Personal data/Development/Whoopet/presentation/build/intermediates/pre-dexed/free/debug/support-annotations-23.1.0-dd88a5e2c095b787e48560d1921b550ba52c0af9.jar" />
+    </item>
+    <item
+        jar="/Users/sumitbhatia/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.14/898f9ab61e2a23afd615f0b0389478bec86f49f9/rxjava-1.0.14.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="898f9ab61e2a23afd615f0b0389478bec86f49f9">
+        <dex dex="/Users/sumitbhatia/Personal data/Development/Whoopet/presentation/build/intermediates/pre-dexed/free/debug/rxjava-1.0.14-d37da855988a55e2cc1e64f356dd69b4a2fafbd8.jar" />
+    </item>
+    <item
+        jar="/Users/sumitbhatia/Personal data/Development/Whoopet/presentation/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/Users/sumitbhatia/Personal data/Development/Whoopet/presentation/build/intermediates/pre-dexed/free/debug/classes-5a7cd34c9d4100e883ec4fcd02220378904c1360.jar" />
     </item>
 
 </items>

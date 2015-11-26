@@ -6,7 +6,7 @@ import com.laser.whoopet.R;
 
 import org.androidannotations.annotations.EFragment;
 
-import fragments.BaseFragment;
+import ui.base.BaseFragment;
 
 /**
  * Created by SumitBhatia on 9/06/15.

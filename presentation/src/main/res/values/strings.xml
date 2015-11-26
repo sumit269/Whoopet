@@ -6,20 +6,46 @@
 
     <string name="login">Login</string>
     <string name="register">Register</string>
+    <string name="register_fb">Register using Facebook</string>
+    <string name="register_gplus">Register using Google</string>
     <string name="hint_firstname">Enter first name</string>
     <string name="hint_lastname">Enter last name</string>
     <string name="hint_username">Username</string>
     <string name="label_dateofbirth">Date of birth (dd/mm/yyyy)</string>
     <string name="label_sex">Sex</string>
     <string name="hint_sex">Sex</string>
-    <string name="label_address">Address</string>
+    <string name="hint_address">Address</string>
     <string name="hint_streetline1">Street address 1</string>
     <string name="hint_streetline2">Street address 2</string>
     <string name="hint_state">State</string>
     <string name="hint_postcode">Postcode</string>
     <string name="label_relationshipStatus">Relationship status</string>
-    <string name="label_languagesSpoken">Languages spoken</string>
+    <string name="hint_languagesSpoken">Languages spoken</string>
     <string name="remember_me">Remember me on this device</string>
     <string name="forgot_password">Forgot password ?</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirmpassword">Confirm password</string>
+    <string name="individual">Individual</string>
+    <string name="business">Business</string>
+    <string name="carer">Carer</string>
+    <string name="hint_petname">Pet name</string>
+    <string name="hint_pettype">Pet type</string>
+    <string name="hint_petbreed">Breed</string>
+    <string name="hint_petgender">Gender</string>
+    <string name="hint_birthdate">Birth date</string>
+    <string name="save">Save</string>
+    <string name="next">Next</string>
+    <string name="hint_aboutpet">About the pet</string>
+    <string name="hint_favouritefood">Favourite food</string>
+    <string name="hint_favouritetoys">Favourite toys</string>
+    <string name="hint_favouriteplaces">Favourite places</string>
+    <string name="hint_favouriteactivity">Favourite places</string>
+    <string name="hint_contactdetails">Contact person for the pet</string>
+
+    <string-array name="relationshipStatus">
+        <item name="Single">Single</item>
+        <item name="Married">Single</item>
+        <item name="Prefer_undisclosed">Prefer undisclosed</item>
+    </string-array>
 
 </resources>

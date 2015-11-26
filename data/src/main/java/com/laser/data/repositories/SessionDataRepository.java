@@ -3,6 +3,7 @@ package com.laser.data.repositories;
 import android.content.Context;
 
 import com.laser.data.net.RestApi;
+import com.laser.domain.entities.LoginResponse;
 import com.laser.domain.repository.ISessionRepository;
 import com.laser.whoopet.data.R;
 
@@ -10,7 +11,6 @@ import javax.inject.Inject;
 
 import rx.Observable;
 import rx.Subscriber;
-import rx.functions.Func1;
 
 public class SessionDataRepository implements ISessionRepository {
     private final RestApi restApi;
@@ -24,7 +24,7 @@ public class SessionDataRepository implements ISessionRepository {
     }
 
     @Override
-    public Observable<String> askForLogin(String username, String password) {
+    public Observable<LoginResponse> askForLogin(String username, String password) {
 //        return restApi.login(username, password).map(new Func1<Credentials, String>() {
 //            @Override
 //            public String call(Credentials credentials) {

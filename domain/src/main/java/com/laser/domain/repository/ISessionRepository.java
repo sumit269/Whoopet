@@ -1,9 +1,10 @@
 package com.laser.domain.repository;
 
+import com.laser.domain.entities.LoginResponse;
 import rx.Observable;
 
 public interface ISessionRepository {
-    Observable<String> askForLogin(String username, String password);
+    Observable<LoginResponse> askForLogin(String username, String password);
 
 //    Observable<String> askForSignUp(User user);
 //

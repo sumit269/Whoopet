@@ -1,5 +1,6 @@
 package com.laser.domain.interactors;
 
+import com.laser.domain.entities.LoginResponse;
 import com.laser.domain.repository.ISessionRepository;
 import com.laser.domain.scheduler.ObserveOn;
 import com.laser.domain.scheduler.SubscribeOn;
@@ -8,7 +9,7 @@ import javax.inject.Inject;
 
 import rx.Observable;
 
-public class LoginUseCase extends SessionUseCase<String> {
+public class LoginUseCase extends SessionUseCase<LoginResponse> {
     private String username, password;
 
     @Inject
@@ -22,7 +23,7 @@ public class LoginUseCase extends SessionUseCase<String> {
     }
 
     @Override
-    protected Observable<String> buildUseCaseObservable() {
+    protected Observable<LoginResponse> buildUseCaseObservable() {
         return iSessionRepository.askForLogin(username, password);
     }
 }

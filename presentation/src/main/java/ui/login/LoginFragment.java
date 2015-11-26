@@ -1,6 +1,7 @@
 package ui.login;
 
 import android.os.Bundle;
+import android.text.TextUtils;
 import android.widget.Button;
 import android.widget.EditText;
 
@@ -13,9 +14,9 @@ import org.androidannotations.annotations.ViewById;
 
 import javax.inject.Inject;
 
-import ui.base.BaseFragmentActivity;
 import butterknife.OnClick;
-import fragments.BaseFragment;
+import ui.base.BaseFragment;
+import ui.base.BaseFragmentActivity;
 import ui.register.RegisterFragment;
 
 
@@ -63,7 +64,7 @@ public class LoginFragment extends BaseFragment implements LoginView {
     @OnClick(R.id.btn_login)
     protected void onLoginClicked() {
         if (validateInput()) {
-
+            loginPresenter.doLogin(etxtUserName.getText().toString(), etxtPassword.getText().toString());
         }
     }
 
@@ -74,9 +75,12 @@ public class LoginFragment extends BaseFragment implements LoginView {
 
 
     private boolean validateInput() {
-        if (etxtUserName.getText() != null && etxtUserName.getText().length() != 0 &&
-                etxtPassword.getText() != null && etxtPassword.getText().length() != 0) {
-            return true;
+        if (TextUtils.isEmpty(etxtUserName.getText())) {
+            etxtUserName.setError("Please enter username");
+            return false;
+        } else if (TextUtils.isEmpty(etxtPassword.getText())) {
+            etxtPassword.setError("Please enter password");
+            return false   ;
         }
         return false;
     }

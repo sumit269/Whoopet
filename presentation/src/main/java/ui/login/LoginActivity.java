@@ -26,7 +26,6 @@ public class LoginActivity extends BaseFragmentActivity {
         getSupportFragmentManager().beginTransaction()
                 .add(R.id.container, loginFragment, "BaseFragment")
                 .commit();
-//        addFragment(LoginFragment_.builder().build());
 
     }
 

@@ -4,7 +4,7 @@ import javax.inject.Singleton;
 
 import ui.MainActivity;
 import dagger.Component;
-import fragments.BaseFragment;
+import ui.base.BaseFragment;
 import ui.SplashActivity;
 import ui.base.BaseFragmentActivity;
 import ui.login.LoginActivity;

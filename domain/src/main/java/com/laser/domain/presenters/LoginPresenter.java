@@ -1,6 +1,7 @@
 package com.laser.domain.presenters;
 
 import com.laser.domain.interactors.LoginUseCase;
+import com.laser.domain.presenters.subscribers.LoginSubscriber;
 import com.laser.domain.views.LoginView;
 
 import javax.inject.Inject;
@@ -21,8 +22,8 @@ public class LoginPresenter implements Presenter<LoginView> {
 
     public void doLogin(String username, String password) {
         loginUseCase.doLogin(username, password);
-//        loginUseCase.execute(new BaseCredentialsSubscriber<LoginView>(loginView) {
-//        });
+        loginUseCase.execute(new LoginSubscriber<LoginView>(loginView) {
+        });
     }
 
     @Override

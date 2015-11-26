@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@color/common_signin_btn_default_background">
+
+    <com.laser.views.WTextView
+        android:id="@+id/optionIndividual"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:padding="@dimen/inner_container_padding"
+        android:text="@string/individual" />
+
+    <com.laser.views.WTextView
+        android:id="@+id/optionBusiness"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:padding="@dimen/inner_container_padding"
+        android:text="@string/business" />
+
+    <com.laser.views.WTextView
+        android:id="@+id/optionCarer"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:padding="@dimen/inner_container_padding"
+        android:text="@string/carer" />
+</LinearLayout>
